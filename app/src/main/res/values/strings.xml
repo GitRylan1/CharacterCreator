@@ -1,3 +1,26 @@
 <resources>
     <string name="app_name">CharacterCreator</string>
+    <string-array name="racename_array">
+        <item>Dragonborn</item>
+        <item>Dwarf</item>
+        <item>Elf</item>
+        <item>Gnome</item>
+        <item>Half-Elf</item>
+        <item>Halfling</item>
+        <item>Half-Orc</item>
+        <item>Human</item>
+        <item>Tiefling</item>
+    </string-array>
+
+    <string-array name="raceimage_array">
+        <item>https://www.dndbeyond.com/avatars/thumbnails/6/340/420/618/636272677995471928.png</item>
+        <item>https://www.dndbeyond.com/avatars/thumbnails/6/254/420/618/636271781394265550.png</item>
+        <item>https://www.dndbeyond.com/avatars/thumbnails/7/639/420/618/636287075350739045.png</item>
+        <item>https://www.dndbeyond.com/avatars/thumbnails/6/334/420/618/636272671553055253.png</item>
+        <item>https://www.dndbeyond.com/avatars/thumbnails/6/481/420/618/636274618102950794.png</item>
+        <item>https://www.dndbeyond.com/avatars/thumbnails/6/256/420/618/636271789409776659.png</item>
+        <item>https://www.dndbeyond.com/avatars/thumbnails/6/466/420/618/636274570630462055.png</item>
+        <item>https://www.dndbeyond.com/avatars/thumbnails/6/258/420/618/636271801914013762.png</item>
+        <item>https://www.dndbeyond.com/avatars/thumbnails/7/641/420/618/636287076637981942.png</item>
+    </string-array>
 </resources>
